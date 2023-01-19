@@ -1,0 +1,8 @@
+```
+Usage: html-decode [STRING]
+Will read from STDIN if STRING is not defined as a parameter.
+		
+Flags:
+  -help
+    	print help
+```
