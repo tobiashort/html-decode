@@ -39,5 +39,5 @@ func main() {
 		}
 		input = string(data)
 	}
-	fmt.Println(html.UnescapeString(input))
+	fmt.Print(html.UnescapeString(input))
 }
