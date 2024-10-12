@@ -1,3 +1,3 @@
-module github.com/t-hg/html-decode
+module github.com/tobiashort/html-decode
 
 go 1.19
